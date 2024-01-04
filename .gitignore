@@ -11,6 +11,7 @@ lerna-debug.log*
 /pubic
 /package-lock
 /vite.config
+/env.local
 dist
 dist-ssr
 *.local

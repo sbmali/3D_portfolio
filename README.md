@@ -1,1 +1,1 @@
-[download](https://github.com/sbmali/3D_portfolio/assets/137095099/61b2e99e-322b-4c2a-bef7-f5336c7a3281)
+Nike - E-commerce Platform, Developed using ReactJS for enhanced performance and style with Tailwind CSS. Developed a sophisticated filtering system to help customers find products according to their preferences. Customers can buy any product by using a pin code.., 
